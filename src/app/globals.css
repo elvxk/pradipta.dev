@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css2?family=Squada+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Blinker&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@900&display=swap");
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  /*--color-cdark: #1e1d20;*/
+  --color-cdark: oklch(0.23 0.0059 301.09);
+  /*--color-cbrown: #efe4d6;*/
+  --color-cbrown: oklch(0.92 0.0222 74.09);
+  /*--color-cwhite: #ffffff;*/
+  --color-cwhite: oklch(1 0 0);
+  /*--color-ccyan: #64bfb3;*/
+  --color-ccyan: oklch(0.75 0.0894 184.37);
+  /*--color-cpink: #cc669c;*/
+  --color-cpink: oklch(0.65 0.143 348.86);
+
+  --font-squada: "Squada One", sans-serif;
+  --font-blinker: "Blinker", sans-serif;
+  --font-korean: "Noto Sans KR", sans-serif;
+}
+
+.bg_parallax {
+  background-image: url("../assets/parallax/bg_parallax.webp");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.doodle {
+  background-image: url("../assets/parallax/doodlenew.webp");
+  background-position: center;
+  background-repeat: repeat;
+  background-size: 1280px;
+}
+
+.doodlenav {
+  background-image: url("../assets/doodlenav.webp");
+  background-position: center;
+  background-repeat: repeat;
+  background-size: 640px;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+::-moz-selection {
+  /* Code for Firefox */
+  background: #64bfb3;
+}
+
+::selection {
+  background: #64bfb3;
+}
