@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD001 MD013 MD041 MD033 MD045 -->
 <h3 align="center">
   <samp
-    >&gt; <b>sandri.my.id</b
+    >&gt; <b>pradipta.dev</b
     >
   </samp>
 </h3>
@@ -13,7 +13,7 @@
   </samp>
 </p>
 <p align="center">
-<a href="https://sandri.my.id" target="_blank">DEMO</a>
+<a href="https://pradipta.dev" target="_blank">DEMO</a>
 </p>
 <div align="center">
 
@@ -35,5 +35,5 @@
 &nbsp;&middot;&nbsp;
 <a href="https://dribbble.com/elvxk" target="_blank"><samp>Dribbble</samp></a>
 <br/>
-<a href="https://sandri.my.id" target="_blank"><samp>www.sandri.my.id</samp></a>
+<a href="https://pradipta.dev" target="_blank"><samp>www.pradipta.dev</samp></a>
 </div>
