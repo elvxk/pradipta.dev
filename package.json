@@ -10,10 +10,10 @@
   },
   "dependencies": {
     "aos": "^3.0.0-beta.6",
-    "next": "15.2.6",
+    "next": "15.2.8",
     "parallax-js": "^3.1.0",
-    "react": "^19.2.1",
-    "react-dom": "^19.2.1",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
     "react-icons": "^5.5.0",
     "react-random-reveal": "^2.0.1",
     "react-simple-typewriter": "^5.0.1"
