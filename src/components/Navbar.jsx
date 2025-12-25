@@ -57,9 +57,8 @@ const Navbar = () => {
     <>
       <nav
         // className={`fixed right-0 left-0 z-30 transition-all rounded-b-2xl container mx-auto bg-cbrown dark:bg-cdark shadow-md`}
-        className={`fixed right-0 left-0 z-30 lg:hidden ${
-          isHide ? "-top-80" : "top-0"
-        } transition-all`}
+        className={`fixed right-0 left-0 z-30 lg:hidden ${isHide ? "-top-80" : "top-0"
+          } transition-all`}
       >
         <div
           className="flex justify-between items-center text-cdark px-4 py-2 transition-all rounded-b-2xl container mx-auto bg-cwhite/50 dark:bg-cdark/50 "
@@ -79,19 +78,16 @@ const Navbar = () => {
                 className=" w-11 h-11 p-3 rounded-full hover:scale-105 transition-all"
               >
                 <div
-                  className={`bg-cdark dark:bg-cwhite h-1 w-full transition-all rounded-full ${
-                    menuOpened ? "rotate-45 translate-y-0.5" : ""
-                  }`}
+                  className={`bg-cdark dark:bg-cwhite h-1 w-full transition-all rounded-full ${menuOpened ? "rotate-45 translate-y-0.5" : ""
+                    }`}
                 />
                 <div
-                  className={`bg-cdark dark:bg-cwhite my-1 h-1 w-full transition-all rounded-full ${
-                    menuOpened ? "hidden" : ""
-                  }`}
+                  className={`bg-cdark dark:bg-cwhite my-1 h-1 w-full transition-all rounded-full ${menuOpened ? "hidden" : ""
+                    }`}
                 />
                 <div
-                  className={`bg-cdark dark:bg-cwhite h-1 w-full transition-all rounded-full ${
-                    menuOpened ? "-rotate-45 -translate-y-0.5" : ""
-                  }`}
+                  className={`bg-cdark dark:bg-cwhite h-1 w-full transition-all rounded-full ${menuOpened ? "-rotate-45 -translate-y-0.5" : ""
+                    }`}
                 />
               </button>
             </div>
@@ -161,11 +157,11 @@ const Navbar = () => {
           </a>
         </div>
         <a
-          href="https://sandri.my.id"
+          href="https://pradipta.dev"
           target="_blank"
           className=" text-cwhite bg-cpink dark:bg-ccyan px-2 font-blinker text-sm cursor-pointer transition-all hover:scale-95"
         >
-          www.sandri.my.id
+          www.pradipta.dev
         </a>
       </div>
     </>
