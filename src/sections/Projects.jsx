@@ -51,7 +51,7 @@ const Projects = ({ data }) => {
             })}
         </div>
         <a
-          href="https://projects.sandri.my.id"
+          href="https://projects.pradipta.dev"
           target="_blank"
           rel="noreferrer"
           data-aos="fade-up"

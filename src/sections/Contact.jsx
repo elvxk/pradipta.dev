@@ -25,12 +25,12 @@ const Contact = () => {
         </p>
 
         <a
-          href="https://word.sandri.my.id"
+          href="https://word.pradipta.dev"
           target="_blank"
           data-aos="zoom-in"
           className="flex flex-wrap gap-5 justify-center items-center text-xl text-cdark dark:text-cwhite hover:text-cpink transition-all dark:hover:text-ccyan mb-6 font-bold"
         >
-          word.sandri.my.id
+          word.pradipta.dev
         </a>
 
         <p
