@@ -40,7 +40,7 @@ const About = () => {
             music production and others. I am interested in the IT industry with
             my focus on{" "}
             <span className="text-cpink font-bold">web development</span> and
-            frontend development. Currently I work as customer support at{" "}
+            frontend development. Currently I work as Key Account Specialist at{" "}
             <a
               rel="noreferrer"
               href="https://jagoanhosting.com"
